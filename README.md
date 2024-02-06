@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bruno ken</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://portafolio-taupe-nine.vercel.app/](https://portafolio-taupe-nine.vercel.app/)
+- 👨‍💻Portafolio [https://portafolio-taupe-nine.vercel.app/](https://portafolio-taupe-nine.vercel.app/)
 
-- 📫 How to reach me **bruno_am_22@hotmail.com**
+- 💬 Sobre mí **Hola!, soy apasionado por la creación de software. Mi enfoque se centra en la construcción de aplicaciones web modernas y eficientes utilizando tecnologías como React.js, Node.js, Next.js y TypeScript. Con habilidades sólidas en el desarrollo frontend y backend, así como en el manejo de bases de datos PostgreSQL y Express.js, he trabajado en una variedad de proyectos de mi portafolio que demuestran mi capacidad para crear experiencias interactivas y atractivas. Siendo un aprendiz continuo, siempre estoy emocionado por desafiar mis habilidades y contribuir al mundo del desarrollo de software.**
+
+- 📫Contáctame **bruno_am_22@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 <h3 align="center">Una desarrollador fullstack apasionado de Argentina.</h3>
 
 
-- 💬 **Soy apasionado por la creación de software. Mi enfoque se centra en la construcción de aplicaciones web modernas y eficientes utilizando tecnologías como React.js, Node.js, Next.js y TypeScript. Con habilidades sólidas en el desarrollo frontend y backend, así como en el manejo de bases de datos PostgreSQL y Express.js, he trabajado en una variedad de proyectos de mi portafolio que demuestran mi capacidad para crear experiencias interactivas y atractivas. Siendo un aprendiz continuo, siempre estoy emocionado por desafiar mis habilidades y contribuir al mundo del desarrollo de software.**
+- 💬 **Soy apasionado por la creación de software. Mi enfoque se centra en la construcción de aplicaciones web modernas y eficientes utilizando tecnologías como React.js, Node.js, Recoil, Next.js y TypeScript . Con habilidades sólidas en el desarrollo frontend y backend, así como en el manejo de bases de datos PostgreSQL, Firebase y Express.js, he trabajado en una variedad de proyectos de mi portafolio que demuestran mi capacidad para crear experiencias interactivas y atractivas. Siendo un aprendiz continuo, siempre estoy emocionado por desafiar mis habilidades y contribuir al mundo del desarrollo de software.**
   
 -  **| React | Node.js | Next.js | TypeScript | PostgreSQL | Sequelize | Express.js | Recoiljs**
 

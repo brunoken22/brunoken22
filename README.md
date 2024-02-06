@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bruno ken</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+- 👨‍💻 All of my projects are available at [https://portafolio-taupe-nine.vercel.app/](https://portafolio-taupe-nine.vercel.app/)
+
+- 📫 How to reach me **bruno_am_22@hotmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brunoken18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunoken18" height="30" width="40" /></a>
